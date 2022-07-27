@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# AUHTOR : MUHAMMAD SYAFII
+# AUHTOR : mabiring
 #NGAPAIN LIAT KESINI NGAB#
 #MAU RECODE IZIN DULU NGAB#
-code = 2712998
+code = 2022
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3
 try:
